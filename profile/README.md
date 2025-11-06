@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="zov-maps-offline-online-mapping.github.io/.github">
+  <a href="https://zov-maps-offline-online-mapping.github.io/.github">
     <img src="https://img.shields.io/badge/Download_ZOV_MAPS-1b2838?style=for-the-badge&logo=windows&logoColor=white" alt="Download ZOV MAPS">
   </a>
 </p>
